@@ -1,2 +1,3 @@
 # Coursera-Exercise-Repetitive-tasks-with-loops
-Practiced writing "for" and "while" loops with Javacript
+ In this activity from Coursera I rracticed writing "for" and "while" loops with Javacript
+
